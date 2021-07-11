@@ -106,7 +106,7 @@ body {
   position: fixed;
   width: 100%;
   /* background-color: #35405f; */
-  background-color: rgba(144, 146, 153, 0.94);
+  background-color: #fff;
   /* background-color: rgba(32, 178, 170, 0.86); */
   padding: 0 30px;
   z-index: 100;
