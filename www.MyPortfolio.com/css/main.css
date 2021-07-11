@@ -563,6 +563,21 @@ ul.numbersList span {
   padding: 27px 10px;
 }
 
+
+/* footer section styling */
+footer {
+  background: #fff;
+  padding: 15px 23px;
+  color: #333;
+  text-align: center;
+}
+footer span a {
+  color: #309ef5;
+  text-decoration: none;
+}
+footer span a:hover {
+  text-decoration: underline;
+}
 .contact-info span {
   padding-left: 20px;
 }
